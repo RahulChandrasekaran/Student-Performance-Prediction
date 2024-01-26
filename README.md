@@ -14,14 +14,24 @@ The dataset used in this project is sourced from Kaggle and consists of informat
 The dataset includes the following columns:
 
 gender
-race/ethnicity
+
+race ethnicity
+
 parental level of education
+
 lunch
+
 test preparation course
+
 math score
+
 reading score
+
 writing score
+
 Project Structure
+
+
 The project is organized into several stages:
 
 Understanding the Problem Statement: Clearly define the problem statement, which is to predict students' math scores based on various factors.
