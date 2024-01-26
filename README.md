@@ -1,8 +1,14 @@
 Student Performance Prediction
+
+
 Overview
+
+
 This project focuses on predicting students' performance in mathematics based on various factors such as gender, race/ethnicity, parental level of education, lunch type, and completion of a test preparation course. The goal is to understand the influence of these factors on students' math scores and build a predictive model.
 
 Dataset
+
+
 The dataset used in this project is sourced from Kaggle and consists of information about students' demographics, test scores, and other relevant attributes. The dataset can be found here.
 
 The dataset includes the following columns:
@@ -31,4 +37,6 @@ Evaluation: Evaluate the performance of each model on both the training and test
 Conclusion: Summarize the findings and insights gained from the exploratory data analysis and model training. Discuss the impact of different factors on students' math scores.
 
 Results
+
+
 The project provides insights into the factors influencing students' math scores and compares the performance of various regression models in predicting these scores.
